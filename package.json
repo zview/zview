@@ -2,8 +2,9 @@
   "name": "zview",
   "version": "0.0.2",
   "title": "zview",
-  "description": "A flex UI components Library",
+  "description": "A flex UI component library for mobile",
   "homepage": "http://www.zuv.cc/zview",
+  "readme": "A flex UI component library for mobile",
   "keywords": [
     "zview",
     "vue.js",

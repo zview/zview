@@ -1,5 +1,10 @@
 # zview
 
-flex mobile ui library
+A flex UI component library for mobile
 
-## layout
+> fork from [iview](http://github.com/iview/iview)
+
+## 布局
+
+
+
