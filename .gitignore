@@ -1,0 +1,7 @@
+.idea
+.DS_Store
+node_modules/
+examples/dist/
+dist/
+yarn-error.log
+test/unit/coverage
