@@ -1,10 +1,10 @@
 {
   "name": "zview",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "title": "zview",
-  "description": "A flex UI component library for mobile",
+  "description": "UI Components, based on Vue.js",
   "homepage": "http://www.zuv.cc/zview",
-  "readme": "A flex UI component library for mobile",
+  "readme": "A flex UI components library",
   "keywords": [
     "zview",
     "vue.js",
@@ -32,7 +32,7 @@
     "type": "git",
     "url": "https://github.com/zview/zview"
   },
-  "author": "Luther",
+  "author": "Luther <xluther@zuv.cc>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zview/zview/issues"
